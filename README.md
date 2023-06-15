@@ -1,2 +1,3 @@
 # write-a-program-to-print-fibonacci-series-in-python
- The Python program generates the Fibonacci series based on user input. It calculates and prints the series up to the specified number of terms. The program handles special cases, checks for invalid input, and utilizes loops to generate and print the series efficiently.
+ Certainly! The Python program provided generates and prints the Fibonacci series. The user is prompted to enter the number of Fibonacci terms they want to generate. The program then calculates and prints the Fibonacci series up to the specified number of terms. The Fibonacci series is a sequence of numbers where each number is the sum of the two preceding ones. The program handles special cases for the first two terms (0 and 1) and checks for invalid input. It utilizes a while loop to generate the series and a for loop to print the series.
+ Check our "[Website],(https://refinedfinishesmn.com/)" for details
